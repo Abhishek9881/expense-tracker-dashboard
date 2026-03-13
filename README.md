@@ -36,6 +36,11 @@ The goal of this project was to create a **structured expense tracking system** 
 These tools were selected because they are **free, widely accessible, and suitable for non-technical users**.
 
 ---
+## Data Source
+
+The expense data used in this project is recorded in a structured Google Sheets file.
+
+[Open Expense Data Sheet](https://docs.google.com/spreadsheets/d/19l067miAbDTo_1eTu5_HWPI-4XDsWd6-zohynzErnmc/edit?usp=sharing)
 
 ## Data Entry System
 The expense data is recorded through a structured interface created in Google Sheets.
